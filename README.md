@@ -14,6 +14,8 @@ Ward, Keith. “A Brief History of Microsoft Windows.” Lifewire, Lifewire, 10 
 “The Evolution of Macos (and Mac OS X).” Computerworld, 14 June 2021, www.computerworld.com/article/1622131/evolution-of-macos-and-mac-os-x.html. 
 “Microsoft Windows.” Wikipedia, Wikimedia Foundation, 18 Nov. 2024, en.wikipedia.org/wiki/Microsoft_Windows. 
 “Unix.” Wikipedia, Wikimedia Foundation, 5 Nov. 2024, en.wikipedia.org/wiki/Unix.
+https://s.yimg.com/fz/api/res/1.2/vCfP0vJ7wH31INonTFoAcA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/5d6c92dc-07a7-35cd-a579-b4f0559b91b6/t_500x300
+https://www.pngall.com/wp-content/uploads/2/Windows-Logo.png
 
 
 (The wikipedia citings are only for the images used in my webpage.)

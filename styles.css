@@ -1,0 +1,57 @@
+/* styles.css */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px; /* Default font size */
+    line-height: 1.6; /* Line height for readability */
+    color: #333; /* Default text color */
+    background-color: #f9f9f9; /* Light background for better contrast */
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #111;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6 {
+    font-size: 1em;
+}
+
+/* Paragraphs */
+p {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 0;
+}
+
+/* Links */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
